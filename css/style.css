@@ -1,6 +1,6 @@
 .img{
 	position: relative;
-	background-image: url("../img/img1.jpg");
+	background-image: url("../img/img1.webp");
 	background-repeat: no-repeat;
     background-size: cover;
 	height: 700px;
@@ -12,25 +12,15 @@
 }
 
 #jumbotronwimg{
-	background-image: url("../img/img7.jpg");
+	background-image: url("../img/img7.webp");
 
 }
 
 #secondimg{
-	background-image: url("../img/img5.jpg");
+	background-image: url("../img/img5.webp");
 	border-style: solid;
 	border-radius: 2px;
 	height: 200px;
-}
-
-#thirdimg{
-	background-image: url("../img/img3.jpg");
-	height: 200px;
-}
-
-.sectionTwo{
-
-
 }
 
 .height-fix{
