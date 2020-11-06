@@ -6,10 +6,6 @@
 	height: 700px;
 }
 
-.li{
-	-webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: black;
-}
 
 #jumbotronwimg{
 	background-image: url("../img/img7.webp");
@@ -23,9 +19,6 @@
 	height: 200px;
 }
 
-.height-fix{
-	height: 200px;
-}
 
 .bg-color{
     font-family:  American Typewriter, serif;
