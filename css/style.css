@@ -18,6 +18,8 @@
 
 #secondimg{
 	background-image: url("../img/img2.jpg");
+	border-style: solid;
+	border-radius: 2px;
 	height: 200px;
 }
 
@@ -33,4 +35,16 @@
 
 .height-fix{
 	height: 200px;
+}
+
+.bg-color{
+    font-family:  American Typewriter, serif;
+    color: #d4d9d6;
+    background-color: #383d3a;
+}
+
+.footer-bg{
+    font-family:  American Typewriter, serif;
+    color: #d4d9d6;
+    background-color: #2d302e;
 }
