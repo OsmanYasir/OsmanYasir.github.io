@@ -12,12 +12,12 @@
 }
 
 #jumbotronwimg{
-	background-image: url("../img/img4.jpg");
+	background-image: url("../img/img7.jpg");
 
 }
 
 #secondimg{
-	background-image: url("../img/img2.jpg");
+	background-image: url("../img/img5.jpg");
 	border-style: solid;
 	border-radius: 2px;
 	height: 200px;
@@ -48,3 +48,5 @@
     color: #d4d9d6;
     background-color: #2d302e;
 }
+
+
