@@ -7,7 +7,7 @@ Midterm-Page
 
 This is a sample responsive webpage including several sections, buttons and etc.
 
-> Link: Sample-Page](https://osmanyasir.github.io/)
+> Link: [Sample-Page](https://osmanyasir.github.io/)
 
 ### Below are some screen shots from the web-page;
 
